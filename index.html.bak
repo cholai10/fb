@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+fb login page
+</title>
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<link rel ="stylesheet" type = "text/css" href = "css/div2.css"/>
+</head>
+<body>
+<div class = "container">
+<ul>
+<h2>facebook</h2>
+</ul>
+</div>
+
+
+
+<div id = "footer">
+<img src = "images/fb.jpg"
+
+<ul>
+
+<form>
+<label class = "un">username</label>
+<input type = "text" id = "username" placeholder="user name">
+</form>
+
+<br>
+
+<br>
+
+<br>
+</ul>
+<form>
+<label class = "pw">password</label>
+<input type = "password" id = "pws"  placeholder="password">
+</form>
+<ul>
+<li><a href = "#">forget password</a></li>
+<li><a href = "#">help</a></li>
+</ul>
+<div  class="button1">
+ <a href="#" class="btn btn-info" role="button" /a>
+<button type="button" class="btn btn-primary">login</button>
+</div>
+
+
+
+</div>
+
+
+</body>
+</html>
